@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+SQL;IBM+Watson+%7C+Azure+AI-900+Certified+%E2%98%81%EF%B8%8F;Patent+Holder+%7C+Seed-Funded+Innovator+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+SQL;IBM+Watson+%7C+Azure+AI-900+Certified+%E2%98%81%EF%B8%8F;Patent+Holder+%7C+Seed-Funded+Innovator+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Swethasri08&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/Swethasri08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swetha%20Sri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-sri-b3a02a290/)
-[![GitHub](https://img.shields.io/badge/GitHub-Swethasri08-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Swethasri08)
-[![Email](https://img.shields.io/badge/Email-swethasri0801%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swethasri0801@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=NAGAMUTHU-MR&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/NAGAMUTHU-MR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagamuthu-m-r-451264290/)
+[![GitHub](https://img.shields.io/badge/GitHub-NAGAMUTHU--MR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NAGAMUTHU-MR)
+[![Email](https://img.shields.io/badge/Email-nagamuthu373%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nagamuthu373@gmail.com)
 [![Azure](https://img.shields.io/badge/Azure%20AI--900-Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Swethasri08)
 [![Patent](https://img.shields.io/badge/Group%201-Patent%20Holder-bf91f3?style=flat-square&logoColor=white)](https://github.com/Swethasri08)
 
@@ -261,9 +261,9 @@
 
 ### 📬 I'm Actively Looking for Opportunities — Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-sri-b3a02a290/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethasri0801@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swethasri08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagamuthu-m-r-451264290/)
+[![GitHub](https://img.shields.io/badge/GitHub-NAGAMUTHU--MR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NAGAMUTHU-MR)
+[![Email](https://img.shields.io/badge/Email-nagamuthu373%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nagamuthu373@gmail.com)
 
 *"Driven by curiosity. Backed by patents. Ready to build."* 🚀
 
